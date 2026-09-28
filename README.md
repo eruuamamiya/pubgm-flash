@@ -83,9 +83,11 @@ Langkah-langkah:
 ❓ FAQ & Catatan Tambahan
 --------------------------------------------------------------------
 Q: Apakah perlu memindahkan file OBB secara manual ke /sdcard/Android/obb/?
+
 A: Tidak perlu. Seluruh aset OBB sudah dibungkus di dalam file obbassets.apk dan akan otomatis dipasang oleh sistem Android saat perintah install-multiple dijalankan.
 
 Q: Mengapa pesan "File Not Found" muncul di Brevent?
+
 A: Pastikan direktori folder di memori internal sesuai dengan perintah (/sdcard/pubgflash/) dan nama file APK tidak salah ketik.
 
 --------------------------------------------------------------------
